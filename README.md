@@ -1,1 +1,1 @@
-# Ai-and-plagiarism-checker
+# Ai detection
